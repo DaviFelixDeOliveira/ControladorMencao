@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(238, 238, 238);
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin-left: 10px;
+}
+h4{
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.materia{
+    display: flex;
+}
+
+input{
+    width: 29px;
+    height: 30px;
+    margin-right: 4px;
+}
+
+.calcular{
+    width: 60px;
+    height: 30px;
+    background-color: gray;
+    border : 2px black solid;
+    border-radius: 2px black solid;
+}
+
+.inputs1{
+    position: absolute;
+    top: 70px;
+    left: 100px;
+}
+
+input{
+    background-color:aliceblue;
+}
+
+table{
+    background-color: green;
+}
